@@ -1,0 +1,33 @@
+.footer{
+    position:fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Aclonica';
+}
+#note{
+    width: 100%;
+    font-family: 'Amita';
+}
+img{
+    width: 25%;
+}
+#a{
+    float: left;
+}
+#b{
+    float: right;
+}
+canvas{
+    border-width: 4px;
+    border-color: black;
+    border-style:solid;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px red;
+}
+body{
+    background-size: cover;
+}
